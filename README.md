@@ -1,6 +1,6 @@
 🎥 Deskripsi :
 
-Aplikasi yang ditampilkan adalah Perancangan Aplikasi untuk pengelolaan gaji karyawan berbasis java di SMK 28 OKTOBER, yang dirancang untuk membantu pengelolaan data karyawan dan perhitungan gaji secara otomatis dan efisien.
+Project yang di buat berjudul :  Perancangan Aplikasi untuk pengelolaan gaji karyawan berbasis java di SMK 28 OKTOBER, yang dirancang untuk membantu pengelolaan data karyawan dan perhitungan gaji secara otomatis dan efisien.
 ---
 
 
