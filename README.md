@@ -22,7 +22,7 @@ Setelah proses, sistem mencetak atau menampilkan slip gaji per karyawan dengan r
 
 
 5. Antarmuka Visual
-Dibangun dengan tools visual seperti Delphi, Visual Basic, atau C# dengan drag‑and‑drop komponen (form, text box, combo box, grid).
+Dibangun dengan tools visual.
 
 ---
 
